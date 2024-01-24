@@ -2,6 +2,7 @@ ciao mondo
 nuova funzione
 nuova funzione con aggiunta
 fix nuovo problema
+secondo bug risolto
 seconda funzione modifichina
 terza funzione bugfix
 terza funzione secondo commit piccolo bugfix
