@@ -2,5 +2,5 @@ ciao mondo
 nuova funzione
 nuova funzione con aggiunta
 fix nuovo problema
-terza funzione
+terza funzione bugfix
 terza funzione secondo commit
