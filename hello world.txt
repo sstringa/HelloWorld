@@ -11,4 +11,11 @@ terza funzione bugfix
 terza funzione secondo commit piccolo bugfix
 secondo bug risolto
 -*-*-*-*-*-*-*
-
+prendi una pallina dal cestino
+	se pallina bianca
+		prendi un nastrino rosso dal cestino
+	altrimenti
+		prendi un nastrino bianco dal cestino
+	lega nastrino alla pallina
+	appendi la pallina
+fatto!
