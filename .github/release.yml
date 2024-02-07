@@ -32,7 +32,8 @@ changelog:
   
     - title: ":bug: Bug Fixes"
       labels:
-        - bugfix
+        - bug
+        - fix
   
     - title: ":white_check_mark: Test"
       labels:
