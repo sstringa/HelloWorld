@@ -4,17 +4,41 @@ changelog:
   exclude:
     labels:
       - ignore-for-release
-    authors:
-      - octocat
   categories:
-    - title: Breaking Changes 🛠
-      labels:
-        - Semver-Major
+    - title: ":boom: Breaking Changes"
+      labels: 
         - breaking-change
-    - title: Exciting New Features 🎉
+
+    - title: ":wrench: Build"
       labels:
-        - Semver-Minor
+        - build
+  
+    - title: ":boar: Chore"
+      labels:
+        - chore
+  
+    - title: ":sparkles: New Features"
+      labels:
+        - new-feature
         - enhancement
-    - title: Other Changes
+  
+    - title: ":zap: Performance"
       labels:
-        - "*"
+        - performance"
+  
+    - title: ":recycle: Refactor"
+      labels:
+        - refactor
+  
+    - title: ":bug: Bug Fixes"
+      labels:
+        - bugfix
+  
+    - title: ":white_check_mark: Test"
+      labels:
+        - test
+  
+    - title: ":arrow_up: Dependency Updates"
+      labels:
+        - dependencies
+      collapse-after: 1
