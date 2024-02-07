@@ -1,2 +1,4 @@
 nastro rosso
 nastro bianco
+nastro rosa
+nastro blu

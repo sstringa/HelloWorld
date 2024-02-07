@@ -19,3 +19,10 @@ prendi una pallina dal cestino
 	lega nastrino alla pallina
 	appendi la pallina
 fatto!
+prendi una pallina dal secondo cestino
+	se pallina rosa
+		prendi un nastrino rosso dal cestino
+	altrimenti
+		prendi un nastrino bianco dal cestino
+	lega nastrino alla pallina
+	appendi la pallina
