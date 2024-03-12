@@ -21,7 +21,7 @@ prendi una pallina dal cestino
 fatto!
 prendi una pallina dal secondo cestino
 	se pallina rosa
-		prendi un nastrino blu dal cestino
+		prendi un nastrino bluette dal cestino
 	altrimenti
 		prendi un nastrino rosa dal cestino
 	lega nastrino alla pallina
