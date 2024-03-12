@@ -26,3 +26,4 @@ prendi una pallina dal secondo cestino
 		prendi un nastrino rosa dal cestino
 	lega nastrino alla pallina
 	appendi la pallina
+fatto!
