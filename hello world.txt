@@ -28,3 +28,7 @@ prendi una pallina dal secondo cestino
 	appendi la pallina
 fatto!
 prendi il cestino e aggiungi 10 palline arancioni
+prendi una pallina arancione
+prendi un nastrino verde
+lega nastrino alla pallina
+appendi pallina
