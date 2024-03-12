@@ -2,3 +2,4 @@ pallina rossa
 pallina bianca
 pallina rosa
 pallina blu
+pallina arancione
