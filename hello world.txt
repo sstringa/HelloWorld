@@ -27,3 +27,4 @@ prendi una pallina dal secondo cestino
 	lega nastrino alla pallina
 	appendi la pallina
 fatto!
+palline arancioni = palline arancioni -1
