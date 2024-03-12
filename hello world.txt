@@ -27,3 +27,4 @@ prendi una pallina dal secondo cestino
 	lega nastrino alla pallina
 	appendi la pallina
 fatto!
+prendi il cestino e aggiungi 10 palline arancioni
