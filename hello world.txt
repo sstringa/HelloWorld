@@ -32,3 +32,4 @@ prendi una pallina arancione
 prendi un nastrino verde
 lega nastrino alla pallina
 appendi pallina
+palline arancioni = palline arancioni -1
